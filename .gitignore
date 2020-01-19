@@ -1,0 +1,5 @@
+.venv
+firefox/screenshots
+firefox/error_log.txt
+firefox/geckodriver.log
+firefox/success_log.txt

@@ -1,4 +1,4 @@
-# course-selector
+# course-seat-selector
 
 This is a python script that refreshes the webpage of a given course automatically to sign up once there's seat in the course. once given a username, password, and course number, 
 
